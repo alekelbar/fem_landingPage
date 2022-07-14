@@ -1,2 +1,2 @@
-# front-end_mentor-1
+# front-end_mentor practice
 Huddle landing page with curved sections
